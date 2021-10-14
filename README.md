@@ -14,7 +14,7 @@ Tensorflow 2.6.0
 Anaconda, Windows 10
 
 ## How to use
-In the terminal, run `python train.py` to train my model, run `python train.py -p` to train a model creating from another pre-trained model (`-p` stands for the `pretrained` flag)
+In the terminal, run `python train.py` to train my model, run `python train.py -p` to train a model created from another pre-trained model (`-p` stands for the `pretrained` flag)
 
 ## Datasets
 CIFAR-10 (https://www.cs.toronto.edu/~kriz/cifar.html). It contains 60,000 32x32 color images with 6000 images of each class.
