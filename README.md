@@ -9,6 +9,7 @@ A simple way of implementing CNN architectures. The problem is to build a classi
 
 ## Version
 Python 3.9.7
+
 Tensorflow 2.6.0
 
 ## Environment
