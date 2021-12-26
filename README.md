@@ -1,4 +1,5 @@
 A simple way of implementing CNN architectures. The problem is to build a classification model.
+
 *Tutorial from*: freeCodeCamp, Youtube
 
 ## Main requirements
